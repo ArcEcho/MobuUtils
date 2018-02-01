@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+<target BoneName="clavicle_l" rotationVectorX="-90" rotationVectorY="0" rotationVectorZ="0"/>
+<target BoneName="upperarm_l" rotationVectorX="-90" rotationVectorY="0" rotationVectorZ="0"/>
+<target BoneName="lowerarm_l" rotationVectorX="-90" rotationVectorY="0" rotationVectorZ="0"/>
+<target BoneName="hand_l" rotationVectorX="-180" rotationVectorY="0" rotationVectorZ="0"/>
+
+<target BoneName="clavicle_r" rotationVectorX="90" rotationVectorY="0" rotationVectorZ="0"/>
+<target BoneName="upperarm_r" rotationVectorX="90" rotationVectorY="0" rotationVectorZ="0"/>
+<target BoneName="lowerarm_r" rotationVectorX="90" rotationVectorY="0" rotationVectorZ="0"/>
+<target BoneName="hand_r" rotationVectorX="0" rotationVectorY="0" rotationVectorZ="0"/>
+</root>
